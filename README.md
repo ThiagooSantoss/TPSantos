@@ -1,10 +1,10 @@
-## Bem-vindo(a) ao perfil do TPSantos
+## Bem-vindo(a) ao perfil do Thiago-Santos
  😁
 
 <div>
-   <a href="https://github.com/TPSantos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TPSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPSantos&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Thiago-Santos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
